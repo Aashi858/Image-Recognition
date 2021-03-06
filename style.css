@@ -1,0 +1,15 @@
+body{
+    background-color:mediumspringgreen;
+}
+.heading{
+    width: 90%;
+}
+b{
+    color: gold;
+}
+#webcam{
+    border-width: 5px;
+    border-style: groove;
+    width: 400px;
+    height: 300px;
+}
